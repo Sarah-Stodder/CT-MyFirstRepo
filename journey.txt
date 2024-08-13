@@ -1,0 +1,1 @@
+So far my journey has been fun, I installed vs code, git, and python.
